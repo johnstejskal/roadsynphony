@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MapItem.cs">
+    <Files>
+      <File FileName="..\..\..\Desktop\unity3d - Copy\runnerEngine\Assets\Infinite Runner\Scripts\InfiniteObjects\InfiniteObject.cs" Line="191" Column="18" />
+      <File FileName="..\..\..\Desktop\unity3d - Copy\runnerEngine\Assets\Infinite Runner\Scripts\InfiniteGenerator\InfiniteObjectGenerator.cs" Line="185" Column="33" />
+      <File FileName="..\..\..\Desktop\unity3d - Copy\runnerEngine\Assets\Infinite Runner\Scripts\Game\GameManager.cs" Line="172" Column="45" />
+      <File FileName="Assets\MapItem.cs" Line="22" Column="16" />
+      <File FileName="Assets\scripts\TerrainManager.cs" Line="23" Column="3" />
+      <File FileName="Assets\CharacterController.cs" Line="88" Column="3" />
+      <File FileName="..\..\..\Desktop\unity3d - Copy\runnerEngine\Assets\Infinite Runner\Scripts\Game\InputController.cs" Line="14" Column="69" />
+      <File FileName="..\..\..\Desktop\unity3d - Copy\runnerEngine\Assets\Infinite Runner\Third Party\NGUI\Scripts\UI\UIStretch.cs" Line="61" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

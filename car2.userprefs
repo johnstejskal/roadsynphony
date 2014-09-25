@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MapItem.cs">
+    <Files>
+      <File FileName="Assets\CharacterController.cs" Line="23" Column="3" />
+      <File FileName="Assets\MapItem.cs" Line="11" Column="32" />
+      <File FileName="Assets\scripts\TerrainManager.cs" Line="69" Column="7" />
+      <File FileName="Assets\scripts\ObjectPool.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Enemy.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

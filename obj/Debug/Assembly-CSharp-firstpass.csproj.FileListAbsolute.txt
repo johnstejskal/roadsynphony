@@ -1,0 +1,11 @@
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\UnityEditor.dll
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\UnityEngine.dll
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\nunit.framework.dll
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\3rdsense\Desktop\unity3d\car\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\3rdsense\Desktop\unity3d\car\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\3rdsense\Desktop\unity3d\car\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\3rdsense\Desktop\unity3d\car\obj\Debug\Assembly-CSharp-firstpass.pdb
