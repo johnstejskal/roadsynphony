@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{4ADD975D-5A9C-890C-C882-4D08CD04A463}</ProjectGuid>
+	<ProjectGuid>{916050F7-60CD-E824-28DE-CDDBC54995AF}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraFollowCar.cs" />
      <Compile Include="Assets\CharacterController.cs" />
      <Compile Include="Assets\MapItem.cs" />
      <Compile Include="Assets\iTweenExamples\AccurateLob\Scripts\AccurateLob.cs" />
@@ -104,7 +105,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass-vs.csproj">
-      <Project>{69C0B04F-3606-5FFF-560B-F447FA3778A0}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
+      <Project>{08B95D94-CAF9-1738-DFC3-E5418C7E38B7}</Project>      <Name>Assembly-CSharp-firstpass-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

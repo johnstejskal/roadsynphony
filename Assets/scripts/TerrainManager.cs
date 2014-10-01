@@ -69,7 +69,7 @@ public class TerrainManager : MonoBehaviour {
 		else
 			pos = Vector3.zero;
 
-		GameObject go = Instantiate(Resources.Load("Map2")) as GameObject;
+		GameObject go = Instantiate(Resources.Load("Map1")) as GameObject;
 		//GameObject go = _objectPool.GetObjectForType("Map1", false);
 		go.transform.position = pos;
 		mapsInPlay.Add (go);

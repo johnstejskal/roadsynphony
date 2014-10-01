@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\TerrainManager.cs">
+    <Files>
+      <File FileName="Assets\CameraFollowCar.cs" Line="21" Column="68" />
+      <File FileName="Assets\CharacterController.cs" Line="45" Column="5" />
+      <File FileName="Assets\scripts\TerrainManager.cs" Line="77" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

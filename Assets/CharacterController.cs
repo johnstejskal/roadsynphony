@@ -42,7 +42,7 @@ public class CharacterController : MonoBehaviour {
 				iTween.MoveBy(gameObject,iTween.Hash(
 				"x"   , -2,
 				"time", 0.2f,
-				"easetype","easeinoutback",
+				"easetype","easeInOutCubic",
 				"oncomplete","moveComplete"
 				));
 
@@ -59,7 +59,7 @@ public class CharacterController : MonoBehaviour {
 				iTween.MoveBy(gameObject,iTween.Hash(
 				"x"   , 2,
 				"time", 0.2f,
-				"easetype","easeinoutback",
+				"easetype","easeInOutCubic",
 				"oncomplete","moveComplete"
 				));
 
